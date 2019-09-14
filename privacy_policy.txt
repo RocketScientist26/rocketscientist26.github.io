@@ -1,6 +1,0 @@
-App "Quadruped" access microphone only when "command" button is pressed and hold, to detect words and sentences using Google voice recognisation service and perform according robot movements.
-
-Here is a complete list of detected words and sentences: "stop, forward, back, right, left, slide left, slide right, swim, function, workout, hello, faster, slower, go, robot go, robot stop, go faster, slow down".
-
-It passes audio to Google voice recognisation service only and does not store, record or transmit audio or any detected data anywhere. However Google voice recognisation service can use Internet connection if not in offline mode.
-
